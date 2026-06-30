@@ -19,7 +19,7 @@
 
 ## 💻 CÔNG NGHỆ SỬ DỤNG
 
-[cite_start]Hệ thống được phát triển toàn diện dựa trên mô hình kiến trúc **Client - Server** và mô hình **MVC (Model-View-Controller)** giúp tách biệt rõ ràng giữa các tầng dữ liệu, xử lý nghiệp vụ backend và hiển thị front-end[cite: 23]:
+Hệ thống được phát triển toàn diện dựa trên mô hình kiến trúc **Client - Server** và mô hình **MVC (Model-View-Controller)** giúp tách biệt rõ ràng giữa các tầng dữ liệu, xử lý nghiệp vụ backend và hiển thị front-end:
 
 * [cite_start]**Backend:** `C#` (Ngôn ngữ lập trình hướng đối tượng cốt lõi) kết hợp với nền tảng `.NET SDK 8.0` & `ASP.NET Core MVC`[cite: 1, 11, 22].
 * **Database (Cơ sở dữ liệu):** `Microsoft SQL Server Express (2022+)` xử lý quan hệ logic dữ liệu tài chính tối ưu thông qua các ràng buộc toàn vẹn[cite: 1, 12, 22, 25].
